@@ -36,19 +36,14 @@
 </p>                                                                                                       
 
 <div align="center" style="background:#414a50; padding: 25px 0;">
-    <a href="devanshu95.4@gmail.com">
-        <img src="https://github.com/DevanshuAnand/DevanshuAnand/blob/main/gmail2.png?raw=true"width="25px" alt="Follow me on twitter">
-      <p>Gmail :// DevanshuAnand</p>
-    </a>
-  </div>
-  <div align="center" style="background:#414a50; padding: 25px 0;">
+   </a> 
+  <a href="devanshu95.4@gmail.com">
+        <img src="https://github.com/DevanshuAnand/DevanshuAnand/blob/main/gmail2.png?raw=true"width="35px" alt="Follow me on twitter">
+      </a>&nbsp; &nbsp; 
      <a href="https://www.linkedin.com/in/devanshu-anand-4b8932146/">
-        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" width="30px" alt="Connect on Linkedin">
-        <p>LinkedIn :// DevanshuAnand</p>
-    </a>
+ <img src="https://raw.githubusercontent.com/DevanshuAnand/DevanshuAnand/e2a4a7895cdf949e7aa4e60b8d2e4790f2ef3d29/LinkedIn-Logo.wine.svg" width="100px"height="30px"top-padding="100px"  alt=" Linkedin">
 </div>                                                                                                                     
                                                                                                                      
-
 
 
 
